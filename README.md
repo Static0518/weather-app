@@ -1,1 +1,1 @@
-# weather-app
+I decided to create a basic thing for weather! an App for it. I used Tkinter for the GUI interface. I used requests and used pillow. I plan to update this to make it more sleek. But I am very proud of it. 
